@@ -35,7 +35,7 @@ params:
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
-  disableIncidentHistory: true
+  disableIncidentHistory: false
   ok: "#008000"
   categories:
     - name: Uncategorized
