@@ -39,7 +39,7 @@ params:
   ok: "#008000"
   categories:
     - name: Uncategorized
-      closed: true
+      closed: false
       untited: true
     - name: Discord Bots
       description: Bots designed by Sarvesh M Rao.
