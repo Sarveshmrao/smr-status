@@ -133,12 +133,16 @@ params:
   systems:
     - name: Homepage
       description: Homepage (sarveshmrao.ml).
+      category: uncategorized
     - name: Blog
       description: SMR Blog (blog.sarveshmrao.ml).
+      category: uncategorized
     - name: CDN
       description: CDN for static files like Logos etc (cdn.sarveshmrao.ml).
+      category: uncategorized
     - name: Forum
       description: Community Forum for support on SMR Services (forum.sarveshmrao.ml).
+      category: uncategorized
     - name: SMR Bot
       description: SMR Bot is an all rounder bot for Discord
       category: Discord Bots
