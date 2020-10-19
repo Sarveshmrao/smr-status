@@ -38,7 +38,7 @@ params:
   disableIncidentHistory: true
   ok: "#008000"
   categories:
-    - name: .
+    - name: Uncategorized
       closed: false
       untited: true
     - name: Discord Bots
