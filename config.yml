@@ -40,7 +40,7 @@ params:
   categories:
     - name: Uncategorized
       closed: false
-      untited: true
+      untited: false
     - name: Discord Bots
       description: Bots designed by Sarvesh M Rao.
       closed: true
