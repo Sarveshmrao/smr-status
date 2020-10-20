@@ -9,4 +9,4 @@ affected:
   - Forum
 severity: notice
 ---
-*Announcement* - Community Support Forum is not yet built. It's under construction. Once up we will update this.
+*Announcement* - Community Support Forum is not yet built. It's under construction. Once up we will update here.
