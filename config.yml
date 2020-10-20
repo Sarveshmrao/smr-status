@@ -20,9 +20,24 @@ params:
     - name: Forum
       description: Community Forum for support on SMR Services (forum.sarveshmrao.ml).
       category: Uncategorized
+    - name: CloudFlare
+      category: Uncategorized
+      description: CloudFlare is our DDoS protection provider and proxies all our
+        traffic through their network
     - name: SMR Bot
       description: SMR Bot is an all rounder bot for Discord
       category: Discord Bots
+    - name: TechCrawler Bot
+      category: Discord Bots
+      description: It is a clone of the SMR Bot customized especially for the
+        TechCrawler Discord Community
+    - name: TechCrawler Support
+      category: Discord Bots
+      description: Bot which helps server members to contact the admins of the server
+        (Made for the TechCrawler Discord Community)
+    - name: TechCrawler Store
+      category: Discord Bots
+      description: Bot for in-server currency (Made for the TechCrawler Discord Community)
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
