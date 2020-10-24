@@ -15,4 +15,4 @@ severity: down
 \
 *Monitoring* - A fix has been implemented and is being monitored.
 
-*Resolved* - The issue has been fixed and the bot is back up.
+*Resolved* - The issue has been fixed and the bot is back up. Sorry for any inconvenience caused.
