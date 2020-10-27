@@ -1,10 +1,10 @@
 ---
 section: issue
 title: New tickets are not being created
-date: 2020-10-23T23:33:38.920Z
+date: 2020-10-24T11:33:38.920Z
 resolved: true
 informational: false
-resolvedWhen: ""
+resolvedWhen: 2020-10-24T11:39:52.590Z
 affected:
   - TechCrawler Support
 severity: down
