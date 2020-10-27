@@ -2,7 +2,7 @@ title: SMR Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://status.sarveshmrao.ml
+baseURL: https://status.sarveshmrao.in
 params:
   disableDarkMode: false
   shortDateFormat: 15:04 — Jan 2
