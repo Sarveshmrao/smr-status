@@ -9,16 +9,16 @@ params:
   down: "#e60000"
   systems:
     - name: Homepage
-      description: Homepage (sarveshmrao.ml).
+      description: Homepage (sarveshmrao.in).
       category: Uncategorized
     - name: Blog
-      description: SMR Blog (blog.sarveshmrao.ml).
+      description: SMR Blog (blog.sarveshmrao.in).
       category: Uncategorized
     - name: CDN
-      description: CDN for static files like Logos etc (cdn.sarveshmrao.ml).
+      description: CDN for static files like Logos etc (cdn.sarveshmrao.in).
       category: Uncategorized
     - name: Forum
-      description: Community Forum for support on SMR Services (forum.sarveshmrao.ml).
+      description: Community Forum for support on SMR Services (forum.sarveshmrao.in).
       category: Uncategorized
     - name: CloudFlare
       category: Uncategorized
