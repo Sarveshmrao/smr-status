@@ -24,6 +24,9 @@ params:
       category: Uncategorized
       description: CloudFlare is our DDoS protection provider and proxies all our
         traffic through their network
+    - name: Machan
+      category: Discord Bots
+      description: A all in one Discord Bot created to be used in many servers.
     - name: SMR Bot
       description: SMR Bot is an all rounder bot for Discord
       category: Discord Bots
@@ -31,10 +34,6 @@ params:
       category: Discord Bots
       description: It is a clone of the SMR Bot customized especially for the
         TechCrawler Discord Community
-    - name: TechCrawler Support
-      category: Discord Bots
-      description: Bot which helps server members to contact the admins of the server
-        (Made for the TechCrawler Discord Community)
     - name: TechCrawler Store
       category: Discord Bots
       description: Bot for in-server currency (Made for the TechCrawler Discord Community)
