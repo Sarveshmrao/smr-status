@@ -39,7 +39,7 @@ params:
       description: Bot for in-server currency (Made for the TechCrawler Discord Community)
     - name: SMR Meet
       description: Online Video Conferencing System for anyone to use (meet.sarveshmrao.in)
-      category: Uncategorised
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
