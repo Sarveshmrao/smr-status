@@ -37,6 +37,9 @@ params:
     - name: TechCrawler Store
       category: Discord Bots
       description: Bot for in-server currency (Made for the TechCrawler Discord Community)
+    - name: SMR Meet
+      description: Online Video Conferencing System for anyone to use (meet.sarveshmrao.in)
+      category: Uncategorised
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
