@@ -18,7 +18,7 @@ params:
       description: CDN for static files like Logos etc (cdn.sarveshmrao.in).
       category: Uncategorized
     - name: Forum
-      description: Community Forum for support on SMR Services (forum.sarveshmrao.in).
+      description: Community Forum for support on SMR Services (forums.sarveshmrao.in).
       category: Uncategorized
     - name: CloudFlare
       category: Uncategorized
@@ -40,6 +40,13 @@ params:
     - name: SMR Meet
       description: Online Video Conferencing System for anyone to use (meet.sarveshmrao.in)
       category: Uncategorized
+    - name: FeedIt
+      category: Discord Bots
+      description: A Discord Bot for delivering articles from RSS Feed.
+    - name: SMR IDE
+      category: Uncategorized
+      description: A Integrated Developer Environment (IDE) that supports multi
+        languages. (ide.sarveshmrao.in)
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
