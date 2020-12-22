@@ -10,3 +10,7 @@ affected:
 severity: disrupted
 ---
 *Investigating* - We are investigating a potential issue that has disrupted creation of new support tickets. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+
+
+
+*Update* - We have investigated the issue and are working for a fix for the issue. It should be alright shortly. We are sorry for any inconvenience this may cause you.
