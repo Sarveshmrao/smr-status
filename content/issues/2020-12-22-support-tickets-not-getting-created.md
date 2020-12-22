@@ -2,7 +2,7 @@
 section: issue
 title: Support tickets not getting created
 date: 2020-12-22T11:47:26.217Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-12-22T11:47:26.292Z
 affected:
@@ -14,3 +14,5 @@ severity: disrupted
 
 
 *Update* - We have investigated the issue and are working for a fix for the issue. It should be alright shortly. We are sorry for any inconvenience this may cause you.
+
+*Fixed* - We rolled out a patch and the issue is now resolved. We are sorry for any inconvenience this may have caused you.
