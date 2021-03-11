@@ -30,23 +30,9 @@ params:
     - name: SMR Bot
       description: SMR Bot is an all rounder bot for Discord
       category: Discord Bots
-    - name: TechCrawler Bot
-      category: Discord Bots
-      description: It is a clone of the SMR Bot customized especially for the
-        TechCrawler Discord Community
-    - name: TechCrawler Store
-      category: Discord Bots
-      description: Bot for in-server currency (Made for the TechCrawler Discord Community)
-    - name: SMR Meet
-      description: Online Video Conferencing System for anyone to use (meet.sarveshmrao.in)
-      category: Uncategorized
     - name: FeedIt
       category: Discord Bots
       description: A Discord Bot for delivering articles from RSS Feed.
-    - name: SMR IDE
-      category: Uncategorized
-      description: A Integrated Developer Environment (IDE) that supports multi
-        languages. (ide.sarveshmrao.in)
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
