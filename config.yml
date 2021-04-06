@@ -39,6 +39,9 @@ params:
   logo: /img/smr-word-original-removebg-preview.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Docs
+      link: https://docs.sarveshmrao.in
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
