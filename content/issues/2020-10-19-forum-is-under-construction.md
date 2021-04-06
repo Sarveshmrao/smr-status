@@ -2,7 +2,7 @@
 section: issue
 title: Forum is under construction
 date: 2020-10-19T11:47:41.203Z
-resolved: true
+resolved: false
 informational: true
 resolvedWhen: 2020-12-16T16:41:29.665Z
 affected:
