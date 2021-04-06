@@ -67,6 +67,7 @@ params:
     - name: Heartbeat
       description: "All these should be up for SMR Sites, Services, Products to run
         without any issues. "
+      closed: true
     - name: Discord Bots
       description: Bots designed by Sarvesh M Rao.
       closed: true
