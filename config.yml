@@ -41,10 +41,16 @@ params:
         internal use)
     - name: Site Server
       category: Heartbeat
-      description: Server which hosts all the SMR sites.
+      description: Server which hosts all the SMR sites. (For internal use)
     - name: Bot Server
       category: Heartbeat
-      description: Server which hosts all the SMR Bots
+      description: Server which hosts all the SMR Bots. (For internal use)
+    - name: SMR Docs
+      category: Uncategorized
+      description: Documentation site for SMR Services and Products. (docs.sarveshmrao.in)
+    - name: FeedIt Site
+      category: Uncategorized
+      description: Control Panel for the FeedIt Discord Bot. (feedit.sarveshmrao.in)
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
