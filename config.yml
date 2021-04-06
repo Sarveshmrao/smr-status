@@ -11,17 +11,14 @@ params:
     - name: Homepage
       description: Homepage (sarveshmrao.in).
       category: Uncategorized
-    - name: Blog
-      description: SMR Blog (blog.sarveshmrao.in).
+    - name: Forum
+      description: Community Forum for support on SMR Services (forum.sarveshmrao.in).
       category: Uncategorized
     - name: CDN
       description: CDN for static files like Logos etc (cdn.sarveshmrao.in).
-      category: Uncategorized
-    - name: Forum
-      description: Community Forum for support on SMR Services (forums.sarveshmrao.in).
-      category: Uncategorized
+      category: Heartbeat
     - name: CloudFlare
-      category: Uncategorized
+      category: Heartbeat
       description: CloudFlare is our DDoS protection provider and proxies all our
         traffic through their network
     - name: Machan
@@ -33,15 +30,28 @@ params:
     - name: FeedIt
       category: Discord Bots
       description: A Discord Bot for delivering articles from RSS Feed.
+    - name: SMR Ads
+      category: Heartbeat
+      description: Responsible for delivering ads across SMR Sites, Products and
+        Services. (For internal use)
+    - name: SMR Analytics
+      category: Heartbeat
+      description: Responsible for creating analytics for SMR Sites, Services,
+        Products. This being down might slow down load time of site. (For
+        internal use)
+    - name: Site Server
+      category: Heartbeat
+      description: Server which hosts all the SMR sites.
+    - name: Bot Server
+      category: Heartbeat
+      description: Server which hosts all the SMR Bots
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
   logo: /img/smr-word-original-removebg-preview.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Docs
-      link: https://docs.sarveshmrao.in
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -54,6 +64,9 @@ params:
     - name: Uncategorized
       closed: false
       untitled: true
+    - name: Heartbeat
+      description: "All these should be up for SMR Sites, Services, Products to run
+        without any issues. "
     - name: Discord Bots
       description: Bots designed by Sarvesh M Rao.
       closed: true
