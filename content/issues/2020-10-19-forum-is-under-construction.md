@@ -7,7 +7,7 @@ informational: false
 resolvedWhen: 2020-12-16T16:41:29.665Z
 affected:
   - Forum
-severity: disrupted
+severity: down
 ---
 *Announcement* - Community Support Forum is not yet built. It's under construction. Once up we will update here.
 
