@@ -10,3 +10,5 @@ affected:
 severity: down
 ---
 Maintenance - We are doing maintenance of the forum for better usability. We are sorry for any inconvenience this may cause you. This incident post will be updated.
+
+Update - The forums are now changed to a new URL: https://forum.sarveshmrao.in.
