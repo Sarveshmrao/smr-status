@@ -110,6 +110,6 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
-useRelativeTime: true
+useRelativeTime: false
 skipSeconds: false
 enableLastMod: true
