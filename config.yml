@@ -51,6 +51,9 @@ params:
     - name: FeedIt Site
       category: Uncategorized
       description: Control Panel for the FeedIt Discord Bot. (feedit.sarveshmrao.in)
+    - name: SMR Accounts
+      category: Heartbeat
+      description: The Identity Provider responsible for logging into all the SMR Services
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
