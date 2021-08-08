@@ -5,6 +5,10 @@ languageCode: en
 baseURL: https://status.sarveshmrao.in
 params:
   disableDarkMode: false
+  useRelativeTime: false
+  skipSeconds: false
+  enableLastMod: true
+  enableGitInfo: true
   shortDateFormat: 15:04 — Jan 2
   down: "#e60000"
   systems:
@@ -110,7 +114,4 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
-useRelativeTime: false
-skipSeconds: false
-enableLastMod: true
-enableGitInfo: true
+
