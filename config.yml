@@ -3,20 +3,40 @@ buildFuture: true
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.sarveshmrao.in
+theme: cstate
+preserveTaxonomyNames: true
+taxonomies:
+  affected: affected
+outputs:
+  page:
+    - html
+    - json
+  section:
+    - html
+    - json
+    - rss
+  home:
+    - html
+    - json
+    - rss
+    - svg
+  term:
+    - html
+    - json
+    - rss
+outputFormats:
+  svg:
+    isPlainText: true
+    mediaType: image/svg+xml
 params:
-  disableDarkMode: false
-  useRelativeTime: false
   skipSeconds: false
-  enableLastMod: true
-  enableGitInfo: true
+  useRelativeTime: false
+  disableDarkMode: false
   shortDateFormat: 15:04 — Jan 2
   down: "#e60000"
   systems:
     - name: Homepage
       description: Homepage (sarveshmrao.in).
-      category: Uncategorized
-    - name: Forum
-      description: Community Forum for support on SMR Services (forum.sarveshmrao.in).
       category: Uncategorized
     - name: CDN
       description: CDN for static files like Logos etc (cdn.sarveshmrao.in).
@@ -25,9 +45,6 @@ params:
       category: Heartbeat
       description: CloudFlare is our DDoS protection provider and proxies all our
         traffic through their network
-    - name: Machan
-      category: Discord Bots
-      description: A all in one Discord Bot created to be used in many servers.
     - name: SMR Bot
       description: SMR Bot is an all rounder bot for Discord
       category: Discord Bots
@@ -60,6 +77,7 @@ params:
       description: The Identity Provider responsible for logging into all the SMR Services
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
+  enableLastMod: true
   headerTextColor: white
   logo: /img/smr-word-original-removebg-preview.png
   incidentPostsPerPage: 10
@@ -87,31 +105,6 @@ params:
       untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
+  enableGitInfo: true
   enableCustomHTML: true
   useLargeHeaderDesign: true
-theme: cstate
-preserveTaxonomyNames: true
-taxonomies:
-  affected: affected
-outputs:
-  page:
-    - html
-    - json
-  section:
-    - html
-    - json
-    - rss
-  home:
-    - html
-    - json
-    - rss
-    - svg
-  term:
-    - html
-    - json
-    - rss
-outputFormats:
-  svg:
-    isPlainText: true
-    mediaType: image/svg+xml
-
